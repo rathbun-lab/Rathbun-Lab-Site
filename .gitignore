@@ -1,3 +1,5 @@
 #All compiled jekyll files
 _site/
 .DS_Store
+*.log
+.jekyll-cache*
